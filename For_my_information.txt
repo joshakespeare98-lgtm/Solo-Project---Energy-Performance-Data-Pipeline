@@ -1,0 +1,13 @@
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Execute the ETL Pipeline:
+python read_me.py
+
+
+
+
+Generate Visualisations:
+python visualise.py
