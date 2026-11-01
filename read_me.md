@@ -33,7 +33,7 @@ An end-to-end data engineering pipeline designed to extract, clean, store, query
 
 ---
 
-## 📈 Visualizations
+## 📈 Visualisations
 
 ![Regional Distribution of A-Rated New Dwellings](energy_dwellings_chart.png)
 
